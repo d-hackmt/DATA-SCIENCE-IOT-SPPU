@@ -1,6 +1,7 @@
-# DATA-SCIENCE-IOT-SPPU
 
-Learn Data Science on IOT Data HAVE FUN to get INDUSTRY 4.0 READY !!!!!
+### Learn Data Science on IOT Data HAVE FUN to get INDUSTRY 4.0 READY !!!!!
+
+Hop back : https://github.com/d-hackmt/BSC-IOT-DS-SPPU
 
 AI IS COMINGGGGGGGGGGG..................................................
 
