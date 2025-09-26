@@ -11,11 +11,5 @@ rtc = DS1307(i2c_rtc)
 while True:
     (Y, M, D, day, hr, m, s, p1) = rtc.datetime()
     print("Current Date and Time: {}-{}-{} {}:{}:{}".format(Y, M, D, hr, m, s))
-    
-    # print("Current Date : {}-{}-{} ".format(Y, M, D ))
-    # print("Current Time:  {}:{}:{}".format( hr, m, s))
-
-    # print(f"my number is {divesh}")
-    # print("my number is : {}".format(divesh))
 
     sleep(1)
